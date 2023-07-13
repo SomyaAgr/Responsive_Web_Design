@@ -1,0 +1,10 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 600,
+    "editor.autoClosingOvertype": "always",
+    "editor.autoClosingBrackets": "always",
+    "githubPullRequests.setAutoMerge": true,
+    "codegpt.apiKey": "sk-fHMvqwmCuq53FlJqH6wUT3BlbkFJqwgve5sJMKH8BsvlfqLSsk-fHMvqwmCuq53FlJqH6wUT3BlbkFJqwgve5sJMKH8BsvlfqLS",
+
+    "extensions.supportVirtualWorkspaces": { "<ritwickdey.LiveServer>": true }
+}

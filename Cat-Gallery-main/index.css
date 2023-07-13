@@ -1,0 +1,18 @@
+h1,
+h2,
+p,
+h3 {
+    font-family: 'Sofia', sans-serif;
+}
+
+body {
+    background-color: burlywood;
+}
+
+a:hover {
+    color: black;
+}
+
+a:active {
+    color: white;
+}
